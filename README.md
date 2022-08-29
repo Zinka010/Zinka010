@@ -1,5 +1,5 @@
 ### Hi there, my name is Justin and I'm a full stack software developer and CS student at the University of Waterloo.
-I have significant experience in the field of secuirty software and backend development. I have worked on a cutting edge hardware security module, a cloud based public key management solution targeting the automotive industry and added support for post quantum cryptography libraries to a Java SDK.
+I have significant experience in the field of secuirty software and full stack development. I have worked on a cutting edge hardware security module, a cloud based public key management solution targeting the automotive industry and added support for post quantum cryptography libraries to a Java SDK.
 
 I am a member of the Computer Science Club at the University of Waterloo, to see the code I have written, [click here](https://git.csclub.uwaterloo.ca/jtoft?tab=activity)
 
