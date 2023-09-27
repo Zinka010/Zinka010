@@ -8,6 +8,6 @@ Currently, I'm channeling my creative energy into a monster tracker for tabletop
 
 In my past endeavors, I've designed a weather application utilizing the Open Weather Map API and developed code for robots as a competitor in FIRST Robotics.
 
-I'm constantly inspired by the ever-evolving landscape of technology, and I'm eager to continue making meaningful contributions to this fascinating field. Feel free to connect and explore the exciting world of software development with me!
+I'm constantly inspired by the ever-evolving landscape of technology, and I'm eager to continue making meaningful contributions wherever I can. Please feel free to contact me at any time!
 
 ![](https://komarev.com/ghpvc/?username=Zinka010)
