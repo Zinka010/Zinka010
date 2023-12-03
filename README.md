@@ -1,4 +1,4 @@
-### Greetings! My name is Justin, and I'm a passionate full-stack software developer and Computer Science student at the University of Waterloo.
+### Hi! My name is Justin, and I'm a passionate full-stack software developer and Computer Science student at the University of Waterloo.
 
 My expertise spans both security software and comprehensive full-stack development. I am currently immersed in a Software Engineering Internship at [Constant Contact](https://www.constantcontact.com), but I am actively seeking **Spring 2024 internship opportunities**. In a recent internship with [KindWorks.AI](https://kindworks.ai/), I spearheaded an MS Teams chat bot, fostering connectivity and kindness within the office environment. I am excited to say that this product is now being rolled out to customers. Furthermore, I've contributed to pioneering projects such as a cutting-edge hardware security module and a cloud-based public key management solution tailored for the automotive industry. I've also augmented a Java SDK with support for open-source post-quantum cryptography libraries while working at [Crypto4A](https://crypto4a.com/).
 
